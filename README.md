@@ -16,31 +16,63 @@ Turning raw data into **clear insights, interactive dashboards, and data-driven 
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-I'm a **Data Analyst & BI Developer** focused on transforming raw data into actionable insights.
+I'm a **Data Analyst & BI Developer** passionate about turning raw data into clear, actionable insights. I work with **Power BI, SQL, Python, Excel, and Tableau** to build analytical solutions, interactive dashboards, and data-driven reports that help transform complex data into meaningful business decisions.
 
-My work spans **data cleaning, analysis, visualization, business intelligence, data modeling, and storytelling**, with a strong focus on **Power BI, SQL, Python, Excel, and Tableau**.
+My work spans **data cleaning, analysis, visualization, business intelligence, data modeling, and storytelling**.
 
 I enjoy building analytical solutions that go beyond dashboards — starting with the **business question**, exploring the data, identifying meaningful patterns, and presenting findings in a clear, decision-oriented way.
 
 ---
 
-## 🛠️ Technical Skills
+# 🌐 Socials
 
-| Area | Technologies |
-|---|---|
-| **BI & Visualization** | Power BI, Tableau, Excel |
-| **Data Analysis** | Python, Pandas, NumPy, Statistics |
-| **Databases & Querying** | SQL, MySQL |
-| **Data Transformation** | Power Query, Python |
-| **Analytics & Modeling** | DAX, Data Modeling, Data Visualization |
-| **Web & Data Collection** | Beautiful Soup |
-| **Version Control** | Git, GitHub |
+<p>
+  <a href="https://www.linkedin.com/in/kerelos-nakhla">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Kerelos-Nakhla">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://github.com/Kerelos-Nakhla/Portofolio">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
-## 📊 Featured Projects
+# 💻 Tech Stack
+
+### 📊 Business Intelligence & Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 🐍 Data Analysis & Python
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Data & Querying
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 Featured Projects
 
 ### 🍪 Cookies & Chocolate — Sales Performance Analytics
 Power BI sales analytics solution focused on revenue, profitability, product contribution, geographic performance, and business KPIs using **Power Query, DAX, and dimensional modeling**.
@@ -74,7 +106,7 @@ Business intelligence project analyzing **sales, products, categories, customers
 
 ---
 
-## 🎯 What I Do
+# 🎯 What I Do
 
 - Turn business questions into analytical questions
 - Clean and transform raw datasets
@@ -87,7 +119,7 @@ Business intelligence project analyzing **sales, products, categories, customers
 
 ---
 
-## 📚 Currently Growing
+# 📚 Currently Growing
 
 - Advanced Data Analytics
 - Business Intelligence
@@ -98,15 +130,45 @@ Business intelligence project analyzing **sales, products, categories, customers
 
 ---
 
-## 🤝 Let's Connect
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Kerelos-Nakhla&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180">
+
+<img src="https://streak-stats.demolab.com/?user=Kerelos-Nakhla&theme=dark&hide_border=false" alt="GitHub Streak" height="180">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kerelos-Nakhla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kerelos-Nakhla&icon=0&color=0" alt="Profile Views">
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 I'm interested in opportunities and collaborations around **Data Analytics, Business Intelligence, and data-driven projects**.
 
 <p>
-  <a href="https://www.linkedin.com/in/kerelos-nakhla">LinkedIn</a> •
-  <a href="https://github.com/Kerelos-Nakhla">GitHub</a> •
-  <a href="https://github.com/Kerelos-Nakhla/Portofolio">Portfolio</a> •
-  <a href="mailto:kerelosnakhlasaad@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/kerelos-nakhla">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kerelosnakhlasaad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
