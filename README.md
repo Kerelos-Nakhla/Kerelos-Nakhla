@@ -4,7 +4,7 @@
 
 ### Data Analyst | BI Developer
 
-Turning raw data into **clear insights, interactive dashboards, and data-driven business solutions.**
+I turn raw data into **actionable insights, reliable data models, and business-focused analytics experiences.**
 
 <p>
   <a href="https://www.linkedin.com/in/kerelos-nakhla">LinkedIn</a> •
@@ -18,15 +18,15 @@ Turning raw data into **clear insights, interactive dashboards, and data-driven 
 
 # 💫 About Me
 
-I'm a **Data Analyst & BI Developer** passionate about turning raw data into clear, actionable insights. I work with **Power BI, SQL, Python, Excel, and Tableau** to build analytical solutions, interactive dashboards, and data-driven reports that help transform complex data into meaningful business decisions.
+I'm a **Data Analyst & BI Developer** focused on transforming complex data into clear, decision-ready insights. I use **Power BI, SQL, Python, Excel, and Tableau** to build analytical solutions that connect data exploration with business outcomes.
 
-My work spans **data cleaning, analysis, visualization, business intelligence, data modeling, and storytelling**.
+My workflow covers data cleaning and transformation, exploratory and statistical analysis, dimensional data modeling, DAX measures, KPI development, and data visualization.
 
-I enjoy building analytical solutions that go beyond dashboards — starting with the **business question**, exploring the data, identifying meaningful patterns, and presenting findings in a clear, decision-oriented way.
+I approach every project by starting with the business question, validating the data, identifying performance drivers and risks, and communicating findings through clear analytical storytelling. My goal is to build solutions that do more than display numbers — they help people understand what is happening and make better decisions.
 
 ---
 
-# 🌐 Socials
+# 🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/kerelos-nakhla">
@@ -36,13 +36,16 @@ I enjoy building analytical solutions that go beyond dashboards — starting wit
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://github.com/Kerelos-Nakhla/Portofolio">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:kerelosnakhlasaad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🧰 Tech Stack
 
 ### 📊 Business Intelligence & Visualization
 
@@ -50,83 +53,108 @@ I enjoy building analytical solutions that go beyond dashboards — starting wit
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🐍 Data Analysis & Python
+### 🐍 Python & Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Data & Querying
+### 🗄️ Data, Querying & Modeling
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=powerbi&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🔧 Tools
+**Data modeling:** Star Schema • Snowflake Schema • Galaxy Schema
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🔧 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📊 Featured Projects
+# 🚀 Projects
+
+My portfolio includes business intelligence and data analysis projects across sales, finance, workforce analytics, telecom, healthcare, and sports.
+
+### 📊 PULSE Analytics — Business Performance Intelligence
+
+A Power BI analytics project built around structured business data, dimensional modeling, and interactive analysis to explore performance across key business areas.
+
+**Focus:** Business Intelligence • KPI Analysis • Data Modeling • Power BI
 
 ### 🍪 Cookies & Chocolate — Sales Performance Analytics
-Power BI sales analytics solution focused on revenue, profitability, product contribution, geographic performance, and business KPIs using **Power Query, DAX, and dimensional modeling**.
+
+Sales analytics focused on revenue, profitability, product contribution, geographic performance, and business KPIs using Power Query, DAX, and a star schema.
 
 **Focus:** Sales Analytics • Financial KPIs • Product Performance • Geographic Analysis
 
 ### ⚽ The Road To Glory — FIFA World Cup 2026 Data Experience
-An interactive football data experience combining **Python, Beautiful Soup, pandas, Power BI, DAX, Power Query, and HTML/CSS** to transform tournament data into an analytical storytelling experience.
 
-**Focus:** Web Scraping • Data Cleaning • Sports Analytics • Data Storytelling
+An interactive football data experience combining Python, Beautiful Soup, pandas, Power BI, DAX, Power Query, and HTML/CSS to transform tournament data into an analytical storytelling experience.
 
-### 👥 HR Attrition Analysis
-Workforce analytics project examining **attrition drivers, demographics, career factors, compensation, and workforce risk** through interactive Power BI analysis.
+**Focus:** Web Scraping • Data Cleaning • Sports Analytics • Galaxy Schema • Data Storytelling
 
-**Focus:** HR Analytics • Attrition Drivers • Demographics • Risk Intelligence
+### 👥 HR Attrition — Workforce Risk Intelligence
+
+A workforce analytics solution examining attrition drivers, demographics, career factors, compensation, and workforce risk through interactive Power BI analysis.
+
+**Focus:** HR Analytics • Attrition Drivers • Workforce Segmentation • Star Schema
+
+### 🏥 Andalusia — Healthcare Analytics
+
+A healthcare analytics project designed to turn operational and performance data into useful insights through data modeling, KPI analysis, and dashboard storytelling.
+
+**Focus:** Healthcare Analytics • Performance Monitoring • KPI Analysis • Galaxy Schema
 
 ### 💰 NŌR — Financial Analytics
-Financial analysis dashboard covering **portfolio performance, project-level performance, receivables, installments, and bank/cash analysis**.
 
-**Focus:** Financial Analytics • Receivables • Installments • Cash Flow Analysis
+A financial analysis dashboard covering portfolio and project performance, receivables, installments, and bank/cash analysis.
 
-### 📡 Telecom Customer Churn & Revenue Risk
-Power BI analysis of **customer churn, services, payment methods, customer segments, and revenue risk**.
+**Focus:** Financial Analytics • Receivables • Installments • Cash Flow • Galaxy Schema
 
-**Focus:** Churn Analytics • Customer Segmentation • Revenue Risk • KPI Analysis
+### 📡 Etisalat — Telecom Customer Churn & Revenue Risk
+
+A Power BI analysis of customer churn, services, payment methods, customer segments, and revenue risk. The project identified **$2.86M in revenue at risk** and a **26.54% churn rate** across 1,869 churned customers.
+
+**Focus:** Churn Analytics • Customer Segmentation • Revenue Risk • Star Schema
 
 ### 🛒 Sysco — Sales & Operational Analytics
-Business intelligence project analyzing **sales, products, categories, customers, employees, and suppliers** through a dimensional data model.
 
-**Focus:** Sales Analytics • Product Analysis • Customer Analysis • Data Modeling
+A business intelligence project analyzing sales, products, categories, customers, employees, and suppliers through a snowflake data model.
+
+**Focus:** Sales Analytics • Product Analysis • Customer Analysis • Snowflake Schema
+
+### 📈 PULSE, Sales & Operational Analytics
+
+Across my portfolio, I use dimensional modeling and business-focused metrics to organize complex datasets, explore performance, and communicate findings through dashboards and reports.
+
+**Explore the full collection:** [GitHub Repositories](https://github.com/Kerelos-Nakhla?tab=repositories) • [Portfolio Website](https://github.com/Kerelos-Nakhla/Portofolio)
 
 ---
 
 # 🎯 What I Do
 
-- Turn business questions into analytical questions
-- Clean and transform raw datasets
-- Build reliable data models and relationships
-- Develop DAX measures and business KPIs
-- Create interactive Power BI and Tableau dashboards
-- Analyze trends, patterns, drivers, and performance
-- Communicate insights through data storytelling
-- Build portfolio projects around real business scenarios
+- Translate business questions into measurable analytical objectives
+- Clean, transform, and validate raw datasets
+- Design dimensional data models and relationships
+- Develop DAX measures, KPIs, and business logic
+- Analyze trends, patterns, drivers, and performance risks
+- Build interactive Power BI and Tableau dashboards
+- Use Python and SQL to explore and analyze data
+- Communicate findings through clear data storytelling
 
 ---
 
-# 📚 Currently Growing
+# 📚 Professional Development
 
-- Advanced Data Analytics
-- Business Intelligence
-- Statistical Analysis
-- Data Storytelling
-- Python for Data Analysis
-- Business-focused Data Visualization
+I'm continuing to strengthen my skills in advanced data analytics, business intelligence, statistical analysis, and business-focused data storytelling.
 
 ---
 
@@ -160,7 +188,7 @@ Business intelligence project analyzing **sales, products, categories, customers
 
 # 🤝 Let's Connect
 
-I'm interested in opportunities and collaborations around **Data Analytics, Business Intelligence, and data-driven projects**.
+I'm open to connecting with people working in **Data Analytics, Business Intelligence, and data-driven problem solving**.
 
 <p>
   <a href="https://www.linkedin.com/in/kerelos-nakhla">
