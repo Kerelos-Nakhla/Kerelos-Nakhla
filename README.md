@@ -131,11 +131,7 @@ A business intelligence project analyzing sales, products, categories, customers
 
 **Focus:** Sales Analytics • Product Analysis • Customer Analysis • Snowflake Schema
 
-### 📈 PULSE, Sales & Operational Analytics
-
-Across my portfolio, I use dimensional modeling and business-focused metrics to organize complex datasets, explore performance, and communicate findings through dashboards and reports.
-
-**Explore the full collection:** [GitHub Repositories](https://github.com/Kerelos-Nakhla?tab=repositories) • [Portfolio Website](https://github.com/Kerelos-Nakhla/Portofolio)
+**Explore the full collection:** [GitHub Repositories](https://github.com/Kerelos-Nakhla?tab=repositories) • [Portfolio Repository](https://github.com/Kerelos-Nakhla/Portofolio)
 
 ---
 
